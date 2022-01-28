@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7 - Associations across databases with disable_joins](https://blog.kiprosh.com/rails7-association-across-databases-with-disable-joins/) by Athira Kadampatta
 - [Watermark PDF using Kiprosh PDF library and iText7 in C#](https://blog.kiprosh.com/watermarking-pdf-using-itext7-kiproshwatermarkingpdf/) by Vipul Shetkar
 - [Rails 7 adds new options to upsert_all](https://blog.kiprosh.com/rails-7-adds-new-options-to-upsert_all/) by Ayush Billore
 - [Customizing Wistia Player with JavaScript Plugins](https://blog.kiprosh.com/customizing-wistia-player-with-javascript-plugins/) by Imanpal Singh
 - [Rails 7 introduces ComparisonValidator to compare data with validation](https://blog.kiprosh.com/rails7-activerecord-comparison-validator/) by Vishal Jain
-- [Postgres GIN Index in Rails](https://blog.kiprosh.com/postgres-gin-index-in-rails/) by Swati Jadhav
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
