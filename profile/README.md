@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [WebdriverIO supports Chaining without multiple await statements](https://blog.kiprosh.com/webdriverio-elements-chaining/) by Mayank Shukla
 - [Android Chat App In Six Simple Steps Using Azure Communication](https://blog.kiprosh.com/android-chat-app-using-azure-communication/) by Kavita Patil
 - [Application performance optimization using Webpack](https://blog.kiprosh.com/application-performance-optimisation-using-webpack/) by Akshay Mathur
 - [Rails 7 - Associations across databases with disable_joins](https://blog.kiprosh.com/rails7-association-across-databases-with-disable-joins/) by Athira Kadampatta
 - [Watermark PDF using Kiprosh PDF library and iText7 in C#](https://blog.kiprosh.com/watermarking-pdf-using-itext7-kiproshwatermarkingpdf/) by Vipul Shetkar
-- [Rails 7 adds new options to upsert_all](https://blog.kiprosh.com/rails-7-adds-new-options-to-upsert_all/) by Ayush Billore
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
