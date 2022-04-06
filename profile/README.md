@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Everything You Need to Know About Boosting Documents with Weighted Fields in Azure Search](https://blog.kiprosh.com/everything-you-need-to-know-about-boosting-doucment-development/) by Sagar Pathak
 - [How to optimise localization in iOS Swift App?](https://blog.kiprosh.com/how-to-optimise-localization-in-ios-swift-app/) by Darshan Patel
 - [Rails 7 auto detects inverse_of for scoped associations](https://blog.kiprosh.com/rails-7-auto-detects-inverse-of-for-scoped-associations/) by Athira Kadampatta
 - [WebdriverIO supports Chaining without multiple await statements](https://blog.kiprosh.com/webdriverio-elements-chaining/) by Mayank Shukla
 - [Android Chat App In Six Simple Steps Using Azure Communication](https://blog.kiprosh.com/android-chat-app-using-azure-communication/) by Kavita Patil
-- [Application performance optimization using Webpack](https://blog.kiprosh.com/application-performance-optimisation-using-webpack/) by Akshay Mathur
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
