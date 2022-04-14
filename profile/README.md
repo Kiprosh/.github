@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Advanced features provided by the new debug gem in Ruby](https://blog.kiprosh.com/remote-debugging-with-new-debug-gem-introduced-in-ruby-3-1/) by Manoj Saun
 - [Journey from a Fresher to a Professional in Corporate Industry](https://blog.kiprosh.com/journey-from-fresher-to-professional-in-corporate-industry/) by Amit Kumar Yadav
 - [How to avoid double splash screens in Android 12?](https://blog.kiprosh.com/how-to-avoid-double-splash-screens-in-android-12/) by Aman Garg
 - [Everything You Need to Know About Boosting Documents with Weighted Fields in Azure Search](https://blog.kiprosh.com/everything-you-need-to-know-about-boosting-doucment-development/) by Sagar Pathak
 - [How to optimise localization in iOS Swift App?](https://blog.kiprosh.com/how-to-optimise-localization-in-ios-swift-app/) by Darshan Patel
-- [Rails 7 auto detects inverse_of for scoped associations](https://blog.kiprosh.com/rails-7-auto-detects-inverse-of-for-scoped-associations/) by Athira Kadampatta
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
