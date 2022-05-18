@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Turbo - The heart of Hotwire](https://blog.kiprosh.com/turbo-the-heart-of-hotwire/) by Krishna Singh
 - [How to Boost Documents Using Freshness Function in Azure Search?](https://blog.kiprosh.com/boost-document-using-freshness-function-in-azure/) by Sagar Pathak
 - [How to diagnose Durable Functions using Azure Storage Tables?](https://blog.kiprosh.com/diagnose-durable-orchestration-function/) by Anjali Sharma
 - [Advanced features provided by the new debug gem in Ruby](https://blog.kiprosh.com/advanced-features-provided-by-new-debug-gem/) by Manoj Saun
 - [Journey from a Fresher to a Professional in Corporate Industry](https://blog.kiprosh.com/journey-from-fresher-to-professional-in-corporate-industry/) by Amit Kumar Yadav
-- [How to avoid double splash screens in Android 12?](https://blog.kiprosh.com/how-to-avoid-double-splash-screens-in-android-12/) by Aman Garg
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
