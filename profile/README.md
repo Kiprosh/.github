@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7.1 introduces destroy_association_async_batch_size](https://blog.kiprosh.com/rails-7-introduces-destroy_association_async_batch_size/) by Karan Valecha 👨🏻‍💻
 - [How to build a robust chat app using Azure Communications Service?](https://blog.kiprosh.com/how-to-build-a-robust-chat-app-using-azure-communications-service/) by Kavita Patil
 - [Rails 7.1 adds authenticate_by when using has_secure_password](https://blog.kiprosh.com/rails-7-1-adds-authenticated_by/) by Athira Kadampatta
 - [Creating Zoom-Out-Slide-In Parallax Effect with Framer Motion](https://blog.kiprosh.com/parallax-effect-in-framer-motion/) by Pranay Binju
 - [Stimulus.js adds inbuilt support for stopping event propagation and preventing default action](https://blog.kiprosh.com/stimulus-js-adds-inbuilt-support-for-stopping-event-propagation-and-preventing-default-action/) by Nipun Paradkar
-- [Turbo - The heart of Hotwire](https://blog.kiprosh.com/turbo-the-heart-of-hotwire/) by Krishna Singh
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
