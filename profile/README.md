@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [How to configure FluentValidation in .NET WebAPI via Dependency Injection?](https://blog.kiprosh.com/how-to-configure-fluentvalidation-in-net-webapi-via-dependency-injection/) by Sagar Pathak
 - [Rails 7.1 - construct Common Table Expression using .with query method](https://blog.kiprosh.com/rails-7-1-construct-cte-using-with-query-method/) by Manoj Saun
 - [Reducing Code Duplication in Swift using fundamentals of programming](https://blog.kiprosh.com/reducing-code-duplication-in-swift/) by Mamta Kukreja
 - [Rails 7 adds in_order_of for ActiveRecord::QueryMethods and Enumerable](https://blog.kiprosh.com/rails-7-in_order_of-method-for-activerecord-and-enumerable/) by Supriya Laxman Medankar
 - [Embedding of Scenario Outline with Data Table in Cucumber](https://blog.kiprosh.com/parameterization-of-scenario-outline-with-data-table/) by Darshan Shah
-- [Ruby 3 adds Scheduler Interface for Fibers](https://blog.kiprosh.com/ruby-fiber-schedular/) by Vishal Jain
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
