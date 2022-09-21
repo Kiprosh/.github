@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7.1 - Optimizes Active Record batching for whole table iterations](https://blog.kiprosh.com/rails-7-1-optimizes-active-record-batching-for-whole-table-iterations/) by Sampat Badhe
+- [Rails 7.1 adds ActiveRecord::Base::generates_token_for API](https://blog.kiprosh.com/rails-7-1-adds-generates_token_for-api/) by Prayesh Shah
 - [Autoloading pitfalls fixed by Rails 7’s default Zeitwerk mode](https://blog.kiprosh.com/autoloading-pitfalls-fixed-by-rails-7-s-default-zeitwerk-mode/) by Athira Kadampatta
 - [How to configure FluentValidation in .NET WebAPI via Dependency Injection?](https://blog.kiprosh.com/how-to-configure-fluentvalidation-in-net-webapi-via-dependency-injection/) by Sagar Pathak
 - [Rails 7.1 - construct Common Table Expression using .with query method](https://blog.kiprosh.com/rails-7-1-construct-cte-using-with-query-method/) by Manoj Saun
-- [Reducing Code Duplication in Swift using fundamentals of programming](https://blog.kiprosh.com/reducing-code-duplication-in-swift/) by Mamta Kukreja
-- [Rails 7 adds in_order_of for ActiveRecord::QueryMethods and Enumerable](https://blog.kiprosh.com/rails-7-in_order_of-method-for-activerecord-and-enumerable/) by Supriya Laxman Medankar
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
