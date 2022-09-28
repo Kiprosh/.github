@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Manage Rails app secrets with Rails Encrypted Credentials](https://blog.kiprosh.com/rails-encrypted-credentials/) by Atique Akhtar
 - [Rails 7.1 - Optimizes Active Record batching for whole table iterations](https://blog.kiprosh.com/rails-7-1-optimizes-active-record-batching-for-whole-table-iterations/) by Sampat Badhe
 - [Rails 7.1 adds ActiveRecord::Base::generates_token_for API](https://blog.kiprosh.com/rails-7-1-adds-generates_token_for-api/) by Prayesh Shah
 - [Autoloading pitfalls fixed by Rails 7’s default Zeitwerk mode](https://blog.kiprosh.com/autoloading-pitfalls-fixed-by-rails-7-s-default-zeitwerk-mode/) by Athira Kadampatta
 - [How to configure FluentValidation in .NET WebAPI via Dependency Injection?](https://blog.kiprosh.com/how-to-configure-fluentvalidation-in-net-webapi-via-dependency-injection/) by Sagar Pathak
-- [Rails 7.1 - construct Common Table Expression using .with query method](https://blog.kiprosh.com/rails-7-1-construct-cte-using-with-query-method/) by Manoj Saun
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
