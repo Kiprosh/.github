@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7.1 adds the --parent option to the Job Generator](https://blog.kiprosh.com/add-parent-option-to-job-generator-to-specify-parent-class-of-job/) by Krishna Singh
 - [Selenium 4 CDP Integration With Capybara](https://blog.kiprosh.com/selenium-4-cdp-integration-with-capybara/) by Darshan Shah
 - [Manage Rails app secrets with Rails Encrypted Credentials](https://blog.kiprosh.com/rails-encrypted-credentials/) by Atique Akhtar
 - [Rails 7.1 - Optimizes Active Record batching for whole table iterations](https://blog.kiprosh.com/rails-7-1-optimizes-active-record-batching-for-whole-table-iterations/) by Sampat Badhe
 - [Rails 7.1 adds ActiveRecord::Base::generates_token_for API](https://blog.kiprosh.com/rails-7-1-adds-generates_token_for-api/) by Prayesh Shah
-- [Autoloading pitfalls fixed by Rails 7’s default Zeitwerk mode](https://blog.kiprosh.com/autoloading-pitfalls-fixed-by-rails-7-s-default-zeitwerk-mode/) by Athira Kadampatta
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
