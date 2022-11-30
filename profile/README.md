@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Introduction to Ractors in Ruby 3](https://blog.kiprosh.com/ruby-3-introduction-to-ractors/) by Navaneeth Krishnan P
 - [How to integrate Font Awesome in Android using AwesomeTextView library?](https://blog.kiprosh.com/how-to-integrate-font-awesome-in-android-using-awesometextview-library/) by Aman Shahu
 - [Rails 7.1 allows ActiveRecord::QueryMethods#select & #reselect to receive hash values](https://blog.kiprosh.com/rails-7-1-allows-activerecord-querymethods-select-and-reselect-to-receive-hash-values/) by Sampat Badhe
 - [Azure Communication Chat SDK: Limitations and Workarounds](https://blog.kiprosh.com/azure-communication-chat-sdk-limitations/) by Anjali Sharma
 - [Rails 7.1 adds the --parent option to the Job Generator](https://blog.kiprosh.com/add-parent-option-to-job-generator-to-specify-parent-class-of-job/) by Krishna Singh
-- [Selenium 4 CDP Integration With Capybara](https://blog.kiprosh.com/selenium-4-cdp-integration-with-capybara/) by Darshan Shah
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
