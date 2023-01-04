@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7.1 supports infinite ranges for Active Record Validators](https://blog.kiprosh.com/rails-7-supports-infinite-ranges-for-active-record-validators/) by Athira Kadampatta
 - [Broadcasting your turbo streams as you want them in Rails 7](https://blog.kiprosh.com/broadcasting-your-turbo-streams-as-you-want-them-in-rails-7/) by Imanpal Singh
 - [Rails 7.1 supports password challenge via has_secure_password](https://blog.kiprosh.com/has_secure_password-supports-password-challenge/) by Vishal Jain
 - [Rails 7.1 allows templates to set strict locals](https://blog.kiprosh.com/allow-template-to-set-strict-locals/) by Manoj Saun
 - [Introduction to Ractors in Ruby 3](https://blog.kiprosh.com/ruby-3-introduction-to-ractors/) by Navaneeth Krishnan P
-- [How to integrate Font Awesome in Android using AwesomeTextView library?](https://blog.kiprosh.com/how-to-integrate-font-awesome-in-android-using-awesometextview-library/) by Aman Shahu
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
