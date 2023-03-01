@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Ruby 3.2.0 enhances Regexp performance and security with ReDoS protections](https://blog.kiprosh.com/ruby-3-2-0-introduce/) by Krishna Singh
 - [Improvements to in_order_of active record query method in Rails 7.1](https://blog.kiprosh.com/improvements-to-in_order_of-active-record-query-method-in-rails-7-1/) by Supriya Laxman Medankar
 - [Rails 7: ActiveStorage::Streaming improves streaming from the controller](https://blog.kiprosh.com/rails-7-active-storage-streaming/) by Atique Akhtar
 - [Rails 7.1 - Raises on assignment to readonly attributes](https://blog.kiprosh.com/rails-7-1-raises-on-assignment-to-readonly-attributes/) by Sampat Badhe
 - [A quick dive into the new query_constraints config introduced in Rails 7.1](https://blog.kiprosh.com/rails-7-adds-column-constraints-for-an-activerecord-base-object/) by Karan Valecha 👨🏻‍💻
-- [Rails 7.1 supports infinite ranges for Active Record Validators](https://blog.kiprosh.com/rails-7-supports-infinite-ranges-for-active-record-validators/) by Athira Kadampatta
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
