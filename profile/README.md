@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Type-checking in Ruby 3 using RBS](https://blog.kiprosh.com/type-checking-in-ruby-3-using-rbs/) by Navaneeth Krishnan P
 - [Rails 7.1 ActiveRecord adds normalizes API for attribute values](https://blog.kiprosh.com/rails-7-1-activerecord-adds-normalizes-api/) by Sampat Badhe
 - [Setup Image Comparison Service of WDIO to make UI Testing more impactful](https://blog.kiprosh.com/visual-regression-using-wdio/) by Mayank Shukla
 - [All about "Data" Simple Immutable Value Objects in Ruby 3.2](https://blog.kiprosh.com/ruby-3-2-data-simple-immutable-value-objects/) by Vishal Jain
 - [Ruby 3.2.0 enhances Regexp performance and security with ReDoS protections](https://blog.kiprosh.com/ruby-3-2-0-introduce/) by Krishna Singh
-- [Improvements to in_order_of active record query method in Rails 7.1](https://blog.kiprosh.com/improvements-to-in_order_of-active-record-query-method-in-rails-7-1/) by Supriya Laxman Medankar
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
