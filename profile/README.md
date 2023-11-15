@@ -11,8 +11,7 @@
 </section>
  <section align="center">
 <h2>
-  Crafting Ideas Into Reality
-  <h4>We are a legal technology-focused product development firm.</h4>
+  We are a legal technology-focused product development firm
 </h2>
 
 </section>
